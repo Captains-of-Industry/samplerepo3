@@ -1,9 +1,14 @@
-{
-  "name": "b'skip'",
-  "cloud": "b'CS dept'",
-  "teamId": "a0pHr000007S5wIIAS",
-  "ISVALIDTEAM:": "True",
-  "contact": "b'Carnegie'",
-  "ISVALIDUSER": "True",
-  "ISVALIDUSERINTEAM": "True"
+{"SFContacts": [
+  {"skip":
+    {
+      "name": "b'skip'",
+      "cloud": "b'CS dept'",
+      "teamId": "a0pHr000007S5wIIAS",
+      "ISVALIDTEAM:": "True",
+      "contact": "b'Carnegie'",
+      "ISVALIDUSER": "True",
+      "ISVALIDUSERINTEAM": "True"
+    }
+  }
+]
 }
